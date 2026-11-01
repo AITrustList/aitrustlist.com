@@ -91,7 +91,7 @@ If your product is listed on AITrustList, you can embed the official verified ba
 * 🚀 **[AIHuntList](https://aihuntlist.com)** — Comprehensive AI navigation portal with 3,000+ categorized AI apps.
 * 📝 **[Submit Your AI](https://aitrustlist.com/submit)** — Apply for editorial review, traffic verification, and featured placement.
 * 🤝 **[Partnership Inquiries](https://aitrustlist.com/partners)** — Joint marketing, data licensing, and link exchanges.
-
+* 🤝 **[Best AI Directories to Submit Your AI Startup](https://splashy-curler-1b2.notion.site/Best-AI-Directories-to-Submit-Your-Startup-in-2026-DR-Dofollow-Traffic-Telemetry-1123899dfbd8833ab1de8192efec0d42)
 ---
 
 ## 📄 License
